@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{index.html}
+= 叶枫 Feng Ye
+
+~~~
+{}{img_left}{./imgs/photo_yef.png}{Jacob Mattingley}{120px}{150px}{}
+*叶枫* ~~工学博士~~ [./files/CV.pdf Curriculem Vitae(CV)] \n
+
+博士后
+
+[https://www.uvic.ca 加拿大维多利亚大学] | [https://www.uvic.ca/ecs/ece 电子与计算机工程系] | [https://oac.uvic.ca/cnlab/ 通信与网络实验室 (CNLab)]\n
+
+地址: 3800 Finnerty Road, Victoria, BC,  V8P 5C2, Canada\n
+Email: [yefengleaf97@gmail.com] (preferred), [fengye@uvic.ca] 
+
+~~~
+
+
+== 研究领域
+- 分布式协同控制与优化
+- 控制系统隐私保护
+- 网络化系统安全控制
+- 车联网协同控制
+
+
+== 最新消息
+~~~
+- 2025-10-17: 我的博士学位论文获得东南大学优秀博士学位论文奖（学院排名第一）！
+- 2025-06-01: 我开始正式担任IEEE Victoria Section青年学者委员会主席!
+- 2025-04-30: 一项关于差分隐私微电网攻击检测的工作被控制领域顶级期刊Automatica以长文录用！
+- 2024-02-22: [https://automation.seu.edu.cn/2024/0227/c24459a481661/page.htm 一项关于隐私保护平均一致性的工作被信息论领域顶级期刊IEEE Transactions on Information Theory录用！]
+~~~
